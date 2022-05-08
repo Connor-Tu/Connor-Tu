@@ -9,7 +9,7 @@ Taking the program is mainly to expand my field of expertise.
 Hope my the new project can be completed independently.
 Technology has always come from human nature.
 
-<p align='center'>
+<p align='right'>
 <a href="#"><img height="30" src="https://i.imgur.com/gLBoSkf.png"></a>
 <a href="#"><img height="30" src="https://i.imgur.com/uxWS2a2.png"></a>
 <a href="#"><img height="30" src="https://i.imgur.com/w2am3ug.png"></a>
